@@ -1,7 +1,29 @@
+# Tệp cấu hình nhạy cảm
 .env
+.env.*
+!.env.example
+
+# Nhật ký và dữ liệu tạm
 logs/
-__pycache__/
 *.log
 .DS_Store
-models/
+
+# Thư mục biên dịch của Python và Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Thư mục môi trường ảo
+venv/
+.venv/
+env/
+
+# Thư mục cấu hình IDE
 .idea/
+.vscode/
+
+# Thư mục mô hình nặng
+models/

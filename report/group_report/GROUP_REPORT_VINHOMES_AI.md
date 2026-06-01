@@ -3,7 +3,7 @@
 - **Team Name**: VinHomes AI
 - **Team Members**:
   - Vũ Tuấn Hoàng (2A202600830)
-  - Cao Văn Hào (2A202600874)
+  - Cao Văn Hảo (2A202600874)
   - Phạm Quang Huy (2A202600586)
 - **Deployment Date**: 2026-06-01
 
